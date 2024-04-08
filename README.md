@@ -5,7 +5,7 @@ This is the jobs listing project
 This project uses JSON-Server for a mock backend.
 
 ### Technologies
-- React 19
+- React.js
 - Node.js
 - JSON-Server for a mock backend
 - Tailwind CSS
